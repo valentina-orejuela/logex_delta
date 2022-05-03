@@ -10,7 +10,8 @@ const Wrapper = styled.div`
 const Home = () => (
   <Wrapper>
     <div>
-      <h1>CONTROLA TUS OPERACIONES DE COMERCIO EXTERIOR</h1>
+      <h1>LOGEX</h1>
+      <h2>CONTROLA TUS OPERACIONES DE COMERCIO EXTERIOR</h2>
       <p>
         Plataforma online que te permite coordinar fácilmente tus operaciones de
         comercio exterior.
