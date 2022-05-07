@@ -13,6 +13,7 @@ const Home = () => (
       <h1>LOGEX</h1>
       <h1>DELTA FORCE</h1>
       <h2>CONTROLA TUS OPERACIONES DE COMERCIO EXTERIOR</h2>
+      <h3>2022</h3>
       <p>
         Plataforma online que te permite coordinar fácilmente tus operaciones de
         comercio exterior.
